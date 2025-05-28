@@ -1,7 +1,7 @@
 [
-https://cdn.jsdelivr.net/gh/mohamad2256/illustrator@main/assets/svg/typographi/1.svg,
-https://cdn.jsdelivr.net/gh/mohamad2256/illustrator@main/assets/svg/typographi/2.svg,
-https://cdn.jsdelivr.net/gh/mohamad2256/illustrator@main/assets/svg/typographi/3.svg,
-https://cdn.jsdelivr.net/gh/mohamad2256/illustrator@main/assets/svg/typographi/4.svg,
-https://cdn.jsdelivr.net/gh/mohamad2256/illustrator@main/assets/svg/typographi/5.svg
+https://cdn.jsdelivr.net/gh/mohamad2256/illustrator@main/assets/svg/typographi/imam-ali/1.svg,
+https://cdn.jsdelivr.net/gh/mohamad2256/illustrator@main/assets/svg/typographi/imam-ali/2.svg,
+https://cdn.jsdelivr.net/gh/mohamad2256/illustrator@main/assets/svg/typographi/imam-ali/3.svg,
+https://cdn.jsdelivr.net/gh/mohamad2256/illustrator@main/assets/svg/typographi/imam-ali/4.svg,
+https://cdn.jsdelivr.net/gh/mohamad2256/illustrator@main/assets/svg/typographi/imam-ali/5.svg
 ]
