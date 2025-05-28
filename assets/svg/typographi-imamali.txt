@@ -1,0 +1,7 @@
+[
+https://cdn.jsdelivr.net/gh/mohamad2256/illustrator@main/assets/svg/education/1.svg,
+https://cdn.jsdelivr.net/gh/mohamad2256/illustrator@main/assets/svg/education/2.svg,
+https://cdn.jsdelivr.net/gh/mohamad2256/illustrator@main/assets/svg/education/3.svg,
+https://cdn.jsdelivr.net/gh/mohamad2256/illustrator@main/assets/svg/education/4.svg,
+https://cdn.jsdelivr.net/gh/mohamad2256/illustrator@main/assets/svg/education/5.svg
+]
